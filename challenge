@@ -127,3 +127,4 @@ str(df_groups)
 
 ###Write the clustering result to text file
 write.table(df_groups, "./all_average.txt", row.names=FALSE, col.names=TRUE, sep="\t")
+
